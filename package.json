@@ -8,7 +8,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/victorvirtual/vaixs-vx.git"
+    "url": "git+https://github.com/victorvirtual/vaixs-vx.git",
+    "email" : "victorvirtual@gmail.com"
   },
   "keywords": [
     "vaixs",
