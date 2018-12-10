@@ -1,0 +1,23 @@
+{
+  "name": "vaixs-vx",
+  "version": "1.0.0",
+  "description": "vaixs tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorvirtual/vaixs-vx.git"
+  },
+  "keywords": [
+    "vaixs",
+    "tools"
+  ],
+  "author": "victor perez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorvirtual/vaixs-vx/issues"
+  },
+  "homepage": "https://github.com/victorvirtual/vaixs-vx#readme"
+}
